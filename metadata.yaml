@@ -1,0 +1,29 @@
+rosbag2_bagfile_information:
+  compression_format: ''
+  compression_mode: ''
+  custom_data: null
+  duration:
+    nanoseconds: 10672458040
+  files:
+  - duration:
+      nanoseconds: 10672458040
+    message_count: 7
+    path: depth.db3
+    starting_time:
+      nanoseconds_since_epoch: 1702944981696402893
+  message_count: 7
+  relative_file_paths:
+  - depth.db3
+  ros_distro: rosbags
+  starting_time:
+    nanoseconds_since_epoch: 1702944981696402893
+  storage_identifier: sqlite3
+  topics_with_message_count:
+  - message_count: 7
+    topic_metadata:
+      name: /depth
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Image
+      type_description_hash: RIHS01_d31d41a9a4c4bc8eae9be757b0beed306564f7526c88ea6a4588fb9582527d47
+  version: 8

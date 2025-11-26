@@ -1,0 +1,6 @@
+Major axis of rotation is: X, with rotation vector: [ 9.42041013e-04  2.14159447e-04 -1.31697941e-06], between timestamps: 1702944981696402893 and 1702944983557733535
+Major axis of rotation is: X, with rotation vector: [ 1.34754913e-03 -6.92822840e-04 -4.48732807e-08], between timestamps: 1702944983557733535 and 1702944985025921707
+Major axis of rotation is: X, with rotation vector: [ 4.38314953e-04  8.19202224e-05 -1.66077641e-07], between timestamps: 1702944985025921707 and 1702944985759606745
+Major axis of rotation is: X, with rotation vector: [ 8.65058373e-04  2.27908217e-04 -3.31391762e-07], between timestamps: 1702944985759606745 and 1702944986493891910
+Major axis of rotation is: X, with rotation vector: [-2.72359322e-03  4.87245307e-04  2.01972726e-06], between timestamps: 1702944986493891910 and 1702944989365535811
+Major axis of rotation is: X, with rotation vector: [-2.62182490e-04 -1.80787001e-04  6.30047390e-07], between timestamps: 1702944989365535811 and 1702944992368860933
