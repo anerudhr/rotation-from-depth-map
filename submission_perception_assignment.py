@@ -372,7 +372,8 @@ for i in range(len(t)):
 
 # Define a function to calculate the angle, in radians, between the normal vector and the camera normal
 def calculate_angle_to_camera_normal(plane_vector):
-    # Set the camera normal following the illustration in the project description
+    # Set the camera normal into the camera to calculate an angle smaller than 90 degrees, since the 
+    # normal is facing the camera
     camera_normal = np.array([0, 0, -1])
 
     # Compute cosine similarity
